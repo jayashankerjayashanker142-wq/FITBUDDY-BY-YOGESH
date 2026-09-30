@@ -20,7 +20,7 @@ Personal trainers and dieticians are expensive, and generic online plans ignore 
 | Component | Tool |
 |---|---|
 | Language | Python 3.10+ |
-| Generative AI | Google Gemini (`gemini-2.5-flash`) via Google AI Studio API |
+| Generative AI | Google Gemini (`gemini-3.5-flash`) via Google AI Studio API |
 | SDK | `google-genai` |
 | Frontend / UI | Streamlit |
 | Formulas | BMI, Mifflin-St Jeor (BMR), Activity multiplier (TDEE) |
